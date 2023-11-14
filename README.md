@@ -98,5 +98,8 @@ public class MainActivity extends AppCompatActivity {
 ![image](https://github.com/Anuayshh/Expt-9/assets/127651217/e222c9b8-064b-4c3b-9ee1-865ec378df43)
 ![image](https://github.com/Anuayshh/Expt-9/assets/127651217/5622c2ba-19aa-4a2b-aeb1-15c8bbbd14ee)
 
+![image](https://github.com/Anuayshh/Expt-10/assets/127651217/8f06bb8d-822e-451b-9d89-341e60126b72)
+
+
 ## RESULT:
 Thus a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
