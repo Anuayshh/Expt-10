@@ -1,34 +1,46 @@
 # Ex.No:10 To create a option menu to display menu items.
 
+## DATE : 18/10/2023
 
 ## AIM:
-
 To create a option menu to display menu items.
-## EQUIPMENTS REQUIRED:
 
+## EQUIPMENTS REQUIRED:
 Latest Version Android Studio
 
 ## ALGORITHM:
-Step 1: Open Android Studio and then click on File -> New -> New project.
-Step 2: Then type the Application name as “option menu” and click Next. 
-Step 3: Then select the Minimum SDK as shown below and click Next.
-Step 4: Then select the Empty Activity and click Next. Finally click Finish.
-Step 5: Design layout in activity_main.xml.
-Step 6: Get contacts details and Display details give in MainActivity file.
-Step 7: Save and run the application.. 
 
+### Step 1:
+Open Android Studio and then click on File -> New -> New project.
 
+### Step 2:
+Then type the Application name as “option menu” and click Next. 
+
+### Step 3: 
+Then select the Minimum SDK as shown below and click Next.
+
+### Step 4:
+Then select the Empty Activity and click Next. Finally click Finish.
+
+### Step 5:
+Design layout in activity_main.xml.
+
+### Step 6:
+Get contacts details and Display details give in MainActivity file.
+
+### Step 7:
+Save and run the application.. 
 
 ## PROGRAM:
 ```
-/*
 Program to print the text “optionmenu”.
 Developed by:V R Anu Ayshwarya
 Registeration Number :212221040016
-*/
 ```
+
 ## activity_main.xml
-```<?xml version="1.0" encoding="utf-8"?>
+```
+<?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -46,8 +58,8 @@ Registeration Number :212221040016
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
 ```
+
 ## MainActivity.java
 ```
 package com.example.optionmenu;
@@ -80,11 +92,11 @@ public class MainActivity extends AppCompatActivity {
 </menu>
 ```
 
-## OUTPUT
+## OUTPUT:
 ![image](https://github.com/Anuayshh/Expt-9/assets/127651217/8862cc97-bf56-4e59-a857-d3527f12bf98)
 ![image](https://github.com/Anuayshh/Expt-9/assets/127651217/81a019af-60a1-42c4-8e0a-051ce2cea4bb)
 ![image](https://github.com/Anuayshh/Expt-9/assets/127651217/e222c9b8-064b-4c3b-9ee1-865ec378df43)
 ![image](https://github.com/Anuayshh/Expt-9/assets/127651217/5622c2ba-19aa-4a2b-aeb1-15c8bbbd14ee)
 
-## RESULT
+## RESULT:
 Thus a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
